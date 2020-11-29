@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a website that I created when I was learning to learn React. I created a website for my university' Department of Computer Science as I wanted to make it more interesting. I am planning to add a course planner web application to this website so, my work is still not finished. I will keep making the website more better and better.
 
 ## Available Scripts
 
